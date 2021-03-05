@@ -363,3 +363,5 @@ angular.module('ui.calendar', [])
         }
     ]
 );
+
+module.exports = angular.module('ui.calendar').name;
